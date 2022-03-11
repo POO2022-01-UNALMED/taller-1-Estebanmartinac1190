@@ -1,3 +1,5 @@
 David Esteban Martin Acosta 
 18
 Aprender los conceptos de programaciòn orientada a objetos de manera eficiente y asì poder desarrrollar de manera eficiente còdigos
+Ya aparece la carpeta ya que no està vacìa 
+Se puede generar un conflicto entre las versiones y podemos llegar a perder la información
